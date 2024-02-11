@@ -1,3 +1,5 @@
+![Introducing Literate](Introducing.png)
+
 ## Unified school workspaces for everyone
 
 Here, at LiterateInk (pun with Literate Inc.), we try our best to provide ways to unify every existing school workspaces into a single app.
