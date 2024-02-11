@@ -1,4 +1,4 @@
-![Introducing Literate](Introducing.png)
+![Introducing Literate](https://raw.githubusercontent.com/LiterateInk/.github/main/profile/Introducing.png)
 
 ## Unified school workspaces for everyone
 
