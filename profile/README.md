@@ -1,9 +1,10 @@
-![Introducing Literate](https://raw.githubusercontent.com/LiterateInk/.github/main/profile/Introducing.png)
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LiterateInk/.github/raw/main/profile/assets/dark-banner.png">
+        <img alt="LiterateInk Logo" src="https://github.com/LiterateInk/.github/raw/main/profile/assets/light-banner.png">
+    </picture>
+</p>
 
-## Unified school workspaces for everyone
-
-Here, at LiterateInk (pun with Literate Inc.), we try our best to provide ways to unify every existing school workspaces into a single app.
-
-## Where are the projects ?
-
-They're still in the oven ! Please, let us cook an alpha and when this will be available, we'll make the repository public. 
+<p align="center">
+    <i>An unified school workspace for literally everyone.</i>
+</p>
