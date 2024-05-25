@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LiterateInk/.github/raw/main/profile/assets/dark-banner.png">
-        <img alt="LiterateInk Logo" src="https://github.com/LiterateInk/.github/raw/main/profile/assets/light-banner.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LiterateInk/.github/raw/main/profile/assets/github_banner_light.png">
+        <img alt="LiterateInk Logo" src="https://github.com/LiterateInk/.github/raw/main/profile/assets/github_banner_light.png">
     </picture>
 </p>
 
