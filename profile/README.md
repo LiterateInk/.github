@@ -10,7 +10,4 @@
     <br><br>
     <a href="https://literate.ink/discord"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-171515?style=for-the-badge"></a>
     <a href="https://literate.ink/"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-171515?style=for-the-badge"></a>
-    <br>
-    <a href="https://www.npmjs.com/org/literate.ink"><img alt="Find us on npmjs.com" src="https://img.shields.io/badge/npmjs.com-FFFFFF?style=for-the-badge"></a>
-    <a href="https://pub.dev/publishers/literate.ink"><img alt="Find us on pub.dev" src="https://img.shields.io/badge/pub.dev-FFFFFF?style=for-the-badge"></a>
 </p>
