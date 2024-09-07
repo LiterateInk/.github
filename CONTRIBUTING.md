@@ -2,7 +2,7 @@
 
 #### **Did you find a bug?**
 
-* **Do not open up a GitHub issue if the bug is a security vulnerability in Literate**, and instead refer to our [security policy](https://github.com/github/.github/blob/main/SECURITY.md).
+* **Do not open up a GitHub issue if the bug is a security vulnerability in Literate**, and instead refer to our [security policy](https://github.com/LiterateInk/.github/blob/main/SECURITY.md).
 
 * **Ensure the bug was not already reported** by searching on GitHub under issue
 
@@ -28,10 +28,10 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 #### **Do you have questions about the source code?**
 
-* Ask any question ? Go to our [Discord server](https://discord.gg/sS26sGVt77).
+* Ask any question ? Go to our [Discord server](https://literate.ink/discord).
 
 -------
 
 Thanks! :heart: :heart: :heart:
 
-Literate Team
+LiterateInk Team
