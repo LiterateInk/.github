@@ -1,15 +1,18 @@
 # Privacy Policy
 
 ## Security
-LiterateInk takes the security of our software products and services seriously, including all of the open source code repositories managed through our LiterateInk organization, such as Literate, Pawnote, Pawdirecte and every other librairies we made.
+
+LiterateInk takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organization.
 
 ## Reporting Security Issues
+
 If you believe you have found a security vulnerability in any LiterateInk-owned repository, please report it to us through coordinated disclosure.
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.
 Instead, please send an email to <contact@literate.ink>.**
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue :
+
 - The type of issue (e.g., buffer overflow)
 - Full paths of source file(s) related to the manifestation of the issue
 - The location of the affected source code (tag/branch/commit or direct URL)
@@ -21,5 +24,6 @@ Please include as much of the information listed below as you can to help us bet
 This information will help us triage your report more quickly.
 
 ## By the way...
+
 We thank you for your contribution to the security of our services and encourage you to act responsibly and ethically by reporting any vulnerabilities or problems you may encounter.
 Your help is invaluable in maintaining a safe and reliable online environment for all our users.
