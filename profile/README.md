@@ -11,3 +11,10 @@
     <a href="https://literate.ink/discord"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-FFF?style=for-the-badge"></a>
     <a href="https://literate.ink/"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-FFF?style=for-the-badge"></a>
 </p>
+
+
+<p>
+    <picture>
+      <a href="https://github.com/LiterateInk/Pawnote.js"><source srcset="https://github.com/LiterateInk/.github/raw/main/profile/assets/productlist/pawnote.svg"></a>
+    </picture>
+<p>
