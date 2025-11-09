@@ -15,6 +15,7 @@
 
 <p>
     <picture>
-      <a href="https://github.com/LiterateInk/Pawnote.js"><source srcset="https://github.com/LiterateInk/.github/raw/main/profile/assets/productlist/pawnote.svg"></a>
+      <a href="https://github.com/LiterateInk/Pawnote.js">
+      <img alt="Pawnote.js" src="https://github.com/LiterateInk/.github/raw/main/profile/assets/productlist/pawnote.svg" width="100%"></a>
     </picture>
 <p>
