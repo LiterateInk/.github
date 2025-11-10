@@ -15,6 +15,10 @@
 
 <p>
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LiterateInk/.github/raw/main/profile/assets/productlist/darktitlework.svg" width="100%">
+      <img alt="Pawnote.js" src="https://github.com/LiterateInk/.github/raw/main/profile/assets/productlist/lighttitlework.svg" width="100%">
+    </picture>
+    <picture>
       <a href="https://github.com/LiterateInk/Pawnote.js">
       <img alt="Pawnote.js" src="https://github.com/LiterateInk/.github/raw/main/profile/assets/productlist/pawnote.svg" width="100%"></a>
     </picture>
